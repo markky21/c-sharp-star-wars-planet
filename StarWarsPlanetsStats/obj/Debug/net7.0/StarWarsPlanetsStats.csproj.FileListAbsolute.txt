@@ -1,0 +1,14 @@
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net7.0/StarWarsPlanetsStats
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net7.0/StarWarsPlanetsStats.deps.json
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net7.0/StarWarsPlanetsStats.runtimeconfig.json
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net7.0/StarWarsPlanetsStats.dll
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/bin/Debug/net7.0/StarWarsPlanetsStats.pdb
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.AssemblyInfoInputs.cache
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.AssemblyInfo.cs
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.csproj.CoreCompileInputs.cache
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.dll
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/refint/StarWarsPlanetsStats.dll
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.pdb
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/StarWarsPlanetsStats.genruntimeconfig.cache
+/Users/markky21/Projects/c-sharp/StarWarsPlanetsStats/StarWarsPlanetsStats/obj/Debug/net7.0/ref/StarWarsPlanetsStats.dll
